@@ -2,7 +2,7 @@
 use Day1\TicTacToe\TicTacToe;
 use PHPUnit\Framework\TestCase;
 
-class CountItTest extends TestCase
+class TicTacToeTest extends TestCase
 {
     /** @var TicTacToe */
     private $counter;
